@@ -1,0 +1,19 @@
+Summary Statistics:
+
+Math Score:
+Average: 66.1
+Range: 0 to 100
+Reading Score:
+Average: 69.2
+Range: 17 to 100
+Writing Score:
+Average: 68.1
+Range: 10 to 100
+The dataset is complete, with no missing or duplicate entries.
+
+Correlation Matrix:
+
+Writing Score & Reading Score: Strong positive correlation (0.95)
+Writing Score & Math Score: Moderate positive correlation (0.80)
+Math Score & Reading Score: Moderate positive correlation (0.82)
+These correlations suggest that higher scores in one subject are associated with higher scores in the others.
